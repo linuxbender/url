@@ -6,4 +6,3 @@ app/[Cc]onfig/core.php
 app/[Cc]onfig/database.php
 !empty
 .c9revisions/
-storage/*
