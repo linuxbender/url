@@ -4,6 +4,8 @@ Route::controller(Controller::detect());
 
 Route::get('/', function()
 {
+	//$users = User::find(1);
+	//dd($users);
 	return View::make('home.index');
 });
 

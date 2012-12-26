@@ -63,8 +63,8 @@ return array(
 
 		'sqlite' => array(
 			'driver'   => 'sqlite',
-			'database' => 'application',
-			'prefix'   => '',
+			'database' => 'phpwarrior',
+			'prefix'   => 'db_',
 		),
 
 		'mysql' => array(
