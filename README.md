@@ -26,5 +26,5 @@ This setup from laravel , can run on cloud9.
 ```
 ### add the URL to your local hosts file - to find under: '/etc/hosts'
 ```HTML
-
+	192.168.1.13	url.hi.ch
 ```
